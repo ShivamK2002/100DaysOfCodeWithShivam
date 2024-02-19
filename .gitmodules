@@ -1,0 +1,6 @@
+[submodule "GeeksForGeeks"]
+	path = GeeksForGeeks
+	url = https://github.com/ShivamK2002/gfgProblems
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/ShivamK2002/leetCodeProblems
